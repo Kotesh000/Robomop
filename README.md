@@ -6,7 +6,7 @@ RoboMop is an autonomous smart vacuum cleaner robot designed to navigate and cle
 
 - **Autonomous Navigation**: Utilizes ultrasonic sensors for obstacle detection and avoidance.
 - **Efficient Cleaning**: Equipped with a suction mechanism to collect dust and debris.
-- **Compact Design**: Constructed using lightweight materials for easy maneuverability.
+- **Compact Design**: Constructed using lightweight materials for easy manoeuvrability.
 
 ## Materials Required
 
@@ -68,5 +68,4 @@ The Arduino code for RoboMop is available in the `robomop.ino` file in this repo
 ## Circuit Diagram
 
 
-
-![cleaned_circuit_diagram](https://github.com/user-attachments/assets/461a43d6-bf32-4095-ba16-9c12608a278e)
+![cleaned_circuit_diagram](https://github.com/user-attachments/assets/38be8c9d-1f57-4ab4-9726-e7e98545547e)
